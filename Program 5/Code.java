@@ -1,5 +1,5 @@
 
-//Develope The Program Of Complete Division Of Two Number 
+//Develope The Program Of Swapping The Two Number
 
 import java.util.*;
 class Code{
