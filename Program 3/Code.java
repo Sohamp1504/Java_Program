@@ -1,4 +1,4 @@
-//Develope The Program Of Addition Of Two Number 
+//Develope The Program Of Complete Division Of Two Number 
 
 import java.util.*;
 class Code{
