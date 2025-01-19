@@ -1,5 +1,5 @@
 
-//Develope The Program Ot Read The Number And Then Findout weather It is Palindrome Number Or Not
+//Develope The Program Of Read The Number And Then Findout weather It is Palindrome Number Or Not
 // example 121, 323, 434
 
 import java.util.*;
