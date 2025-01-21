@@ -12,9 +12,9 @@ class Code{
   x = n.nextInt();
   
    if (x%2==0)
-  System.out.println(x+" Is Number Is Even Intergers  " );
+  System.out.println(x+" Is A Even Intergers  " );
   else
-  System.out.println(x+" Is Number Is Odd Intergers  " );
+  System.out.println(x+" Is An Odd Intergers  " );
 
    n.close();
 
