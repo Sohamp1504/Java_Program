@@ -1,5 +1,5 @@
 
-//Develope The Program Of Create The Array Of N Number  And Accept The Value From User And Print This Array Using The For Each loop
+//Develope The Program Of Create The Array Of N Number And Accept The Value From User And Print This Array Using The For Each loop
 
 import java.util.Scanner;
 
