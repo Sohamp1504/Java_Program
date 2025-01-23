@@ -1,4 +1,4 @@
-//Develope The Print The Character Of String Reverse Order 
+//Develope The Program To Print The Character Of String Reverse Order 
 
 import java.util.*;
 
