@@ -1,5 +1,5 @@
+//Develope The Program Of Find The area Of Circle
 
-//Develope The Program Of Find The area Of Cricle
 import java.util.*;
 class Code{
   public static void main (String [] args) {
