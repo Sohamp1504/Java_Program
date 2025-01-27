@@ -10,3 +10,7 @@ Object Oriented Programs (Java) Related Program
 8) Develope The Program Of Find Out Maximum Between Two Number
 9) Develope The Program Of Find Out Weather Number Is Positive Or Negative
 10) Develope The Program Of Find Out Weather Number Is Positive Or Negative
+11) Develope The Program Of Find Out weather Is Divisible By 7 Or Not
+12) Develope The Program Of Find Out The Maximum value Of Three Number
+13) Develope The Program Of Find Out The Maximum value Of Three Number Using Logical Opeartor
+
