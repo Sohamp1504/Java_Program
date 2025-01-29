@@ -14,5 +14,6 @@ Object Oriented Programs (Java) Related Program
 12) Develope The Program Of Find Out The Maximum value Of Three Number
 13) Develope The Program Of Find Out The Maximum value Of Three Number Using Logical Opeartor
 14) Develope The Program Of Multiplication Table Of A Number
-15) Develope The Program Of Find Out The factorial Of a Number 
+15) Develope The Program Of Find Out The factorial Of a Number
+16) Develope The Program Of Find The Sum of Digit Of a Number
 
