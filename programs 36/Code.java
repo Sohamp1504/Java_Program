@@ -1,4 +1,4 @@
-//Develope Thje Program to Print Number of Command Line Arguments And Their values
+//Develope The Program to Print Number of Command Line Arguments And Their values
 
 import java.util.*;
 
