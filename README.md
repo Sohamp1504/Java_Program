@@ -39,4 +39,5 @@ Object Oriented Programs (Java) Related Program
 37) Develope The Program To Demonstrate object And Class
 38) Develope The Program To Demonstrate Object And Class Values Are User Input
 39) Develope The Program To Find The Sum of The Number Using The Commands Line Argument
+40) Develope The Program To Find Out The Weather The String Equal or Not Using Command line Arguments
 
