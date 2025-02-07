@@ -1,4 +1,4 @@
-//Develope The Program To Demonstrate Object And Class
+//Develope The Program To Demonstrate Object And Class Values Are User Input
 
 import java.util.*;
 
