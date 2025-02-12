@@ -42,4 +42,5 @@ Object Oriented Programs (Java) Related Program
 40) Develope The Program To Find Out The Weather The String Equal or Not Using Command line Arguments
 41) Develope The Program To Find Out The "Java" String Is Provided Or Not On Command Line
 42) Develope the program to declare a class students with roll_no , name  and percentage as it's field and also write getdata() and putdata() to get and put data of students
+43) Write a program to create a vector with 7 elements as 10, 30, 50, 20, 80, 60, and remove the element 3rd position insert 100 at 3rd position display the current size of vector
 
