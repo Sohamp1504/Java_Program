@@ -1,4 +1,4 @@
-//Write a program to print the area of two rectangles having sides (4,5) and (5,8) respectively
+//Develope The program to print the area of two rectangles having sides (4,5) and (5,8) respectively
 
 public class Code{
     private int length, breadth;
