@@ -45,4 +45,5 @@ Object Oriented Programs (Java) Related Program
 43) Write a program to create a vector with 7 elements as 10, 30, 50, 20, 80, 60, and remove the element 3rd position insert 100 at 3rd position display the current size of vector
 44) Develope The program Of Square Hollow Pattern
 45) Develope The Program Number triangle Pattern
+46) Develope The program to print the area of two rectangles having sides (4,5) and (5,8) respectively
 
