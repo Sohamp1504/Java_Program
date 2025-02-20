@@ -46,4 +46,5 @@ Object Oriented Programs (Java) Related Program
 44) Develope The program Of Square Hollow Pattern
 45) Develope The Program Number triangle Pattern
 46) Develope The program to print the area of two rectangles having sides (4,5) and (5,8) respectively
+47) Develope The program to declare a class Student with roll_no, name and percentage as its fields. Also write getData() and putData() methods to get and put the data of Student. 
 
