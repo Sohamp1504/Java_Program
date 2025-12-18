@@ -1,52 +1,412 @@
-Object Oriented Programs (Java) Related Program
+# 🌟 Object Oriented Programs (Java)
 
-1) Develope The Program To Find The Number Of The Square 
-2) Develope The Program Of Addition Of Two Number
-3) Develope The Program Of Complete Division Of Two Number
-4) Develope The Program Of Find The Average Of Three Number
-5) Develope The Program Of Swapping The Two Number
-6) Develope The Program Of Find The area Of Cricle
-7) Develope The Program Of Find The area Of Rectangle
-8) Develope The Program Of Find Out Maximum Between Two Number
-9) Develope The Program Of Find Out Weather Number Is Positive Or Negative
-10) Develope The Program Of Find Out Weather Number Is Positive Or Negative
-11) Develope The Program Of Find Out weather Is Divisible By 7 Or Not
-12) Develope The Program Of Find Out The Maximum value Of Three Number
-13) Develope The Program Of Find Out The Maximum value Of Three Number Using Logical Opeartor
-14) Develope The Program Of Multiplication Table Of A Number
-15) Develope The Program Of Find Out The factorial Of a Number
-16) Develope The Program Of Find The Sum of Digit Of a Number
-17) Develope The Program Of Find The Greatest Digit Of A Number
-18) Develope The Program Of Count The number Of digit In the number
-19) Develope The Program Of Read The Number And Then Findout weather It is Palindrome Number Or Not
-20) Develope The Program To Find The Sum Of first And Last Digit Of the Number
-21) Develope The Program Of Create The Array Of N Number And Accept The Value From User And Print This Array Using The For Each loop
-22) Develope The Program Of Find Length Of The String
-23) Develope The Program To Print Each Character Of The String On A Separate line
-24) Develope The Program To Print The Character Of String Reverse Order
-25) Develope The Program To Find Out Weather Two String Equal or Not
-26) Deveolpe The Program To count The Vowels in This String
-27) Develope The Program An Email Address Of User And Then Print Username , CompanyName And Domain
-28) Develope The Program To Find The Palindrome Or Not Palindrome
-29) deveolpe The Program To Find The Sum And Average Of 5 Intergers
-30) deveolpe The Program To Find The Sum And Average Of 5 Intergers
-31) Develope The Progam To Find The Occurrence Of A Number In The Array
-32) Develope The Program To Print Array Number In Reverse Order
-33) Develope The Program To Implement The Bubble Sort Algorithm
-34) Develope The Program To Print The Length Of each String
-35) Develope The Program Of Fibonacci Series
-36) Develope The Program to Print Number of Command Line Arguments And Their values
-37) Develope The Program To Demonstrate object And Class
-38) Develope The Program To Demonstrate Object And Class Values Are User Input
-39) Develope The Program To Find The Sum of The Number Using The Commands Line Argument
-40) Develope The Program To Find Out The Weather The String Equal or Not Using Command line Arguments
-41) Develope The Program To Find Out The "Java" String Is Provided Or Not On Command Line
-42) Develope the program to declare a class students with roll_no , name  and percentage as it's field and also write getdata() and putdata() to get and put data of students
-43) Write a program to create a vector with 7 elements as 10, 30, 50, 20, 80, 60, and remove the element 3rd position insert 100 at 3rd position display the current size of vector
-44) Develope The program Of Square Hollow Pattern
-45) Develope The Program Number triangle Pattern
-46) Develope The program to print the area of two rectangles having sides (4,5) and (5,8) respectively
-47) Develope The program to declare a class Student with roll_no, name and percentage as its fields. Also write getData() and putData() methods to get and put the data of Student
-48) Develope The Program To Find Sum Of Interger Using command Line With Exception loading
-49) Develope The Program Of MinimumBalanceException
+Welcome to the **Object Oriented Programs in Java** repository 🎉
+This repository contains a **collection of 49 basic to intermediate Java programs**, designed especially for **students, beginners, and exam preparation**.
 
+Each program focuses on **core Java concepts**, including:
+
+* Variables & Data Types
+* Conditional Statements
+* Loops
+* Arrays
+* Strings
+* Object Oriented Programming (OOP)
+* Command Line Arguments
+* Exception Handling
+* Collections
+* Pattern Printing
+
+---
+
+## 🚀 Features
+
+✅ Beginner-friendly Java programs
+✅ Covers **OOP fundamentals**
+✅ Programs with **user input & command-line arguments**
+✅ Useful for **college practicals & viva**
+✅ Clean, readable, and well-structured code
+
+---
+
+## 📂 Program List
+
+### 🔢 Basic Arithmetic & Logic Programs
+
+1. Find the square of a number
+2. Addition of two numbers
+3. Complete division of two numbers
+4. Average of three numbers
+5. Swapping of two numbers
+6. Area of a circle
+7. Area of a rectangle
+8. Maximum between two numbers
+9. Check whether a number is positive or negative
+10. Check whether a number is positive or negative
+11. Check whether a number is divisible by 7
+12. Maximum of three numbers
+13. Maximum of three numbers using logical operators
+
+---
+
+### 🔁 Loop & Number-Based Programs
+
+14. Multiplication table of a number
+15. Factorial of a number
+16. Sum of digits of a number
+17. Greatest digit in a number
+18. Count digits in a number
+19. Palindrome number check
+20. Sum of first and last digit
+
+---
+
+### 📊 Array Programs
+
+21. Create array of N numbers and print using for-each loop
+22. Occurrence of a number in an array
+23. Print array in reverse order
+24. Bubble sort algorithm
+
+---
+
+### 🔤 String Programs
+
+22. Find length of a string
+23. Print each character on a separate line
+24. Print string in reverse order
+25. Check whether two strings are equal
+26. Count vowels in a string
+27. Extract username, company name & domain from email
+28. Check string palindrome
+29. Print length of each string
+
+---
+
+### 🧮 Combined Logic Programs
+
+29. Sum and average of 5 integers
+30. Sum and average of 5 integers
+
+---
+
+### 🔢 Series & Patterns
+
+35. Fibonacci series
+36. Square hollow pattern
+37. Number triangle pattern
+
+---
+
+### 💻 Command Line Argument Programs
+
+36. Print number of command line arguments and values
+37. Sum of numbers using command line arguments
+38. Check string equality using command line arguments
+39. Check whether "Java" string is provided in command line
+40. Sum of integers using command line with exception handling
+
+---
+
+### 🧱 Object Oriented Programming (OOP)
+
+37. Demonstration of object and class
+38. Object and class with user input
+39. Student class with getData() and putData()
+40. Student class with roll_no, name & percentage
+
+---
+
+### 📚 Collections & Exception Handling
+
+43. Vector operations (insert, remove, size)
+44. MinimumBalanceException program
+
+---
+
+### 📐 Miscellaneous
+
+46. Area of two rectangles with given dimensions
+
+---
+
+## 🛠️ Technologies Used
+
+* ☕ **Java (JDK 8+)**
+* 🖥️ **Command Line / IDE (Eclipse, IntelliJ, VS Code)**
+
+---
+
+## ▶️ How to Run the Programs
+
+```bash
+javac ProgramName.java
+java ProgramName
+```
+
+For command-line arguments:
+
+```bash
+java ProgramName arg1 arg2
+```
+
+---
+
+## 📊 Program-wise Output Tables
+
+The table below gives a **quick overview of each program**, its purpose, sample input, and expected output.
+This makes the repository **easy to review for exams, viva, and interviews**.
+
+---
+
+The table below gives a **quick overview of each program**, its purpose, sample input, and expected output.
+This makes the repository **easy to review for exams, viva, and interviews**.
+
+---
+
+### 🔢 Basic Arithmetic & Logic Programs
+
+| No. | Program Name             | Sample Input | Expected Output |
+| --: | ------------------------ | ------------ | --------------- |
+|   1 | Square of a Number       | 5            | 25              |
+|   2 | Addition of Two Numbers  | 10, 20       | 30              |
+|   3 | Division of Two Numbers  | 20, 5        | Quotient = 4    |
+|   4 | Average of Three Numbers | 10, 20, 30   | 20              |
+|   5 | Swapping of Two Numbers  | a=5, b=10    | a=10, b=5       |
+|   6 | Area of Circle           | r=7          | 153.94          |
+|   7 | Area of Rectangle        | l=4, b=5     | 20              |
+|   8 | Maximum of Two Numbers   | 10, 25       | 25              |
+|   9 | Positive or Negative     | -5           | Negative        |
+|  11 | Divisible by 7           | 21           | Divisible       |
+
+---
+
+### 🔁 Loop & Number-Based Programs
+
+| No. | Program Name              | Input | Output     |
+| --: | ------------------------- | ----- | ---------- |
+|  14 | Multiplication Table      | 5     | 5×1 … 5×10 |
+|  15 | Factorial                 | 5     | 120        |
+|  16 | Sum of Digits             | 123   | 6          |
+|  17 | Greatest Digit            | 583   | 8          |
+|  18 | Count Digits              | 9876  | 4          |
+|  19 | Palindrome Number         | 121   | Palindrome |
+|  20 | Sum of First & Last Digit | 1234  | 5          |
+
+---
+
+### 📊 Array Programs
+
+| No. | Program Name         | Input        | Output        |
+| --: | -------------------- | ------------ | ------------- |
+|  21 | Array using for-each | 1 2 3        | Printed array |
+|  31 | Occurrence in Array  | [1,2,2,3], 2 | 2 times       |
+|  32 | Reverse Array        | 1 2 3        | 3 2 1         |
+|  33 | Bubble Sort          | 5 3 1        | 1 3 5         |
+
+---
+
+### 🔤 String Programs
+
+| No. | Program Name      | Input                                   | Output           |
+| --: | ----------------- | --------------------------------------- | ---------------- |
+|  22 | String Length     | "Java"                                  | 4                |
+|  23 | Print Characters  | "Hi"                                    | H                |
+|   i |                   |                                         |                  |
+|  24 | Reverse String    | "Java"                                  | avaJ             |
+|  25 | String Equality   | Java, Java                              | Equal            |
+|  26 | Count Vowels      | "Hello"                                 | 2                |
+|  27 | Email Parser      | [test@gmail.com](mailto:test@gmail.com) | test, gmail, com |
+|  28 | Palindrome String | madam                                   | Palindrome       |
+
+---
+
+### 🧱 OOP & Advanced Programs
+
+| No. | Program Name            | Description       | Output           |
+| --: | ----------------------- | ----------------- | ---------------- |
+|  37 | Object & Class          | Basic class demo  | Object created   |
+|  38 | OOP with Input          | User input fields | Data printed     |
+|  42 | Student Class           | roll, name, %     | Student info     |
+|  43 | Vector Operations       | Insert & Remove   | Updated vector   |
+|  49 | MinimumBalanceException | Balance < min     | Exception thrown |
+
+---
+
+## 🎞️ Animated GIF Outputs
+
+> 📌 *GIFs show real-time execution of Java programs in the console.*
+> You can record these using tools like **ScreenToGif**, **OBS**, or **Peek**.
+
+### 🎞️ GIF 1: Addition of Two Numbers
+
+```text
+Enter first number: 10
+Enter second number: 20
+Sum = 30
+```
+
+---
+
+### 🎞️ GIF 2: Factorial Program
+
+```text
+Enter number: 5
+Factorial = 120
+```
+
+---
+
+### 🎞️ GIF 3: String Palindrome Check
+
+```text
+Enter string: madam
+Result: Palindrome
+```
+
+---
+
+### 🎞️ GIF 4: OOP – Student Class Demo
+
+```text
+Roll No: 101
+Name   : Soham
+Percentage: 85.50
+```
+
+---
+
+### 🎞️ GIF 5: Pattern Printing Program
+
+```text
+* * * *
+*     *
+*     *
+* * * *
+```
+
+---
+
+Below are sample **console outputs and screenshots** to help understand program behavior.
+(📸 You can add your own screenshots inside the `screenshots/` folder and link them here.)
+
+### 🔢 Example 1: Addition of Two Numbers
+
+**Code Execution Output:**
+
+```text
+Enter first number: 10
+Enter second number: 20
+Sum = 30
+```
+
+**Screenshot:**
+
+---
+
+### 🔁 Example 2: Factorial of a Number
+
+**Output:**
+
+```text
+Enter number: 5
+Factorial = 120
+```
+
+**Screenshot:**
+
+---
+
+### 🔤 Example 3: String Palindrome Check
+
+**Output:**
+
+```text
+Enter string: madam
+Result: Palindrome
+```
+
+**Screenshot:**
+
+---
+
+### 🧱 Example 4: OOP – Student Class
+
+**Output:**
+
+```text
+Roll No: 101
+Name   : Soham
+Percentage: 85.50
+```
+
+**Screenshot:**
+
+---
+
+### 🔢 Example 5: Pattern Program
+
+**Output:**
+
+```text
+* * * *
+*     *
+*     *
+* * * *
+```
+
+**Screenshot:**
+
+---
+
+## 📂 Screenshot Folder Structure
+
+```text
+project-root/
+│── src/
+│── screenshots/
+│   ├── addition.png
+│   ├── factorial.png
+│   ├── palindrome.png
+│   ├── student.png
+│   └── pattern.png
+│── README.md
+```
+
+---
+
+```bash
+javac ProgramName.java
+java ProgramName
+```
+
+For command-line arguments:
+
+```bash
+java ProgramName arg1 arg2
+```
+
+---
+
+## 🎯 Ideal For
+
+🎓 College Students
+🧑‍💻 Java Beginners
+📘 Practical Exams
+📝 Interview Preparation
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! 🚀
+Feel free to **fork**, **improve**, and **submit pull requests**.
+
+---
+
+## ⭐ Support
+
+If you find this repository helpful, **don’t forget to star ⭐ it on GitHub!**
+
+---
+
+### 👨‍💻 Happy Coding with Java! ☕✨
